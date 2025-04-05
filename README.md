@@ -1,2 +1,2 @@
 # DataVault
-This database is designed to manage and analyze customer service 
+This database is designed to manage and analyze customer service interactions and identify the top 5 customers based on their total spending. It contains detailed information about customer transactions, including values, amounts, and discounts offered. The primary objective of this database is to enhance customer relationship management by recognizing high-value clients and offering them personalized service and potential discounts based on their loyalty and spending patterns. 
